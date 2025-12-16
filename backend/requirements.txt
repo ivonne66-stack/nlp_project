@@ -1,0 +1,9 @@
+fastapi==0.115.5
+uvicorn==0.31.1
+python-multipart==0.0.12
+google-generativeai>=0.8.3
+# Pin faiss to an available prebuilt wheel (ARM/macOS has wheels for 1.9.x)
+faiss-cpu==1.9.0.post1
+numpy<2.0
+sentence-transformers
+python-dotenv==1.0.1

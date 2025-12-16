@@ -1,0 +1,1538 @@
+{
+  "flour": {
+    "substitutes": [
+      {
+        "name": "whole wheat flour",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Common practice"
+      },
+      {
+        "name": "almond flour",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Common practice"
+      },
+      {
+        "name": "bread flour",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Common practice"
+      },
+      {
+        "name": "cake flour",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "all-purpose flour": {
+    "substitutes": [
+      {
+        "name": "bread flour + cake flour",
+        "ratio": "1 cup = 1/2 cup bread + 1/2 cup cake",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "whole wheat flour",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "sugar": {
+    "substitutes": [
+      {
+        "name": "brown sugar",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "honey",
+        "ratio": "3/4 cup per 1 cup sugar",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "maple syrup",
+        "ratio": "3/4 cup per 1 cup sugar",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "agave",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "brown sugar": {
+    "substitutes": [
+      {
+        "name": "granulated sugar + molasses",
+        "ratio": "1 cup = 1 cup sugar + 2 tbsp molasses",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "white sugar",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Common practice"
+      },
+      {
+        "name": "coconut sugar",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "baking powder": {
+    "substitutes": [
+      {
+        "name": "baking soda + cream of tartar",
+        "ratio": "1 tsp = 1/4 tsp soda + 1/2 tsp cream of tartar",
+        "context": "baking",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "baking soda": {
+    "substitutes": [
+      {
+        "name": "baking powder",
+        "ratio": "1 tsp = 3 tsp baking powder",
+        "context": "baking",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "vanilla": {
+    "substitutes": [
+      {
+        "name": "vanilla extract",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Common practice"
+      },
+      {
+        "name": "maple syrup",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "almond extract",
+        "ratio": "1/2 amount",
+        "context": "baking",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "butter": {
+    "substitutes": [
+      {
+        "name": "margarine",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "coconut oil",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "olive oil",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "vegetable oil",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "ghee",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "oil": {
+    "substitutes": [
+      {
+        "name": "butter",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      },
+      {
+        "name": "coconut oil",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      },
+      {
+        "name": "olive oil",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      },
+      {
+        "name": "vegetable oil",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "olive oil": {
+    "substitutes": [
+      {
+        "name": "vegetable oil",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      },
+      {
+        "name": "canola oil",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      },
+      {
+        "name": "avocado oil",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "vegetable oil": {
+    "substitutes": [
+      {
+        "name": "canola oil",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "olive oil",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "coconut oil",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "coconut oil": {
+    "substitutes": [
+      {
+        "name": "butter",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "vegetable oil",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "milk": {
+    "substitutes": [
+      {
+        "name": "almond milk",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "soy milk",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "oat milk",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "coconut milk",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "heavy cream": {
+    "substitutes": [
+      {
+        "name": "coconut milk",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "coconut cream",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "half-and-half",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "cream": {
+    "substitutes": [
+      {
+        "name": "coconut cream",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "half-and-half",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "milk + butter",
+        "ratio": "1 cup = 3/4 cup milk + 4 tbsp butter",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "sour cream": {
+    "substitutes": [
+      {
+        "name": "greek yogurt",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "plain yogurt",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "creme fraiche",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "yogurt": {
+    "substitutes": [
+      {
+        "name": "sour cream",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "greek yogurt",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "creme fraiche",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "cream cheese": {
+    "substitutes": [
+      {
+        "name": "neufchatel",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "cottage cheese",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "ricotta",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "buttermilk": {
+    "substitutes": [
+      {
+        "name": "milk + lemon juice",
+        "ratio": "1 cup = 1 cup milk + 1 tbsp lemon",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "milk + vinegar",
+        "ratio": "1 cup = 1 cup milk + 1 tbsp vinegar",
+        "context": "baking",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "cheese": {
+    "substitutes": [
+      {
+        "name": "nutritional yeast",
+        "ratio": "1:1",
+        "context": "vegan",
+        "source": "Vegetarian Times"
+      },
+      {
+        "name": "vegan cheese",
+        "ratio": "1:1",
+        "context": "vegan",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "egg": {
+    "substitutes": [
+      {
+        "name": "flax egg",
+        "ratio": "1 egg = 1 tbsp flax + 3 tbsp water",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "chia egg",
+        "ratio": "1 egg = 1 tbsp chia + 3 tbsp water",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "applesauce",
+        "ratio": "1 egg = 1/4 cup",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "mashed banana",
+        "ratio": "1 egg = 1/4 cup",
+        "context": "baking",
+        "source": "Food Network"
+      },
+      {
+        "name": "silken tofu",
+        "ratio": "1 egg = 1/4 cup",
+        "context": "baking",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "chicken": {
+    "substitutes": [
+      {
+        "name": "turkey",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Cook Smarts"
+      },
+      {
+        "name": "pork",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Cook Smarts"
+      },
+      {
+        "name": "tofu",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Cook Smarts"
+      },
+      {
+        "name": "tempeh",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Vegetarian Times"
+      }
+    ]
+  },
+  "beef": {
+    "substitutes": [
+      {
+        "name": "pork",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "lamb",
+        "ratio": "1:1",
+        "context": "stewing",
+        "source": "Common practice"
+      },
+      {
+        "name": "turkey",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "mushroom",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Vegetarian Times"
+      }
+    ]
+  },
+  "pork": {
+    "substitutes": [
+      {
+        "name": "chicken",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "turkey",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "beef",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "turkey": {
+    "substitutes": [
+      {
+        "name": "chicken",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "pork",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "fish": {
+    "substitutes": [
+      {
+        "name": "chicken",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "tofu",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Common practice"
+      },
+      {
+        "name": "shrimp",
+        "ratio": "1:1",
+        "context": "seafood",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "shrimp": {
+    "substitutes": [
+      {
+        "name": "scallops",
+        "ratio": "1:1",
+        "context": "seafood",
+        "source": "Common practice"
+      },
+      {
+        "name": "chicken",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "tofu",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "tofu": {
+    "substitutes": [
+      {
+        "name": "tempeh",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Vegetarian Times"
+      },
+      {
+        "name": "seitan",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Vegetarian Times"
+      },
+      {
+        "name": "chicken",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Cook Smarts"
+      },
+      {
+        "name": "beans",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Vegetarian Times"
+      }
+    ]
+  },
+  "tempeh": {
+    "substitutes": [
+      {
+        "name": "tofu",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Vegetarian Times"
+      },
+      {
+        "name": "seitan",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Vegetarian Times"
+      }
+    ]
+  },
+  "beans": {
+    "substitutes": [
+      {
+        "name": "lentils",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Vegetarian Times"
+      },
+      {
+        "name": "chickpeas",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Common practice"
+      },
+      {
+        "name": "tofu",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Vegetarian Times"
+      }
+    ]
+  },
+  "onion": {
+    "substitutes": [
+      {
+        "name": "shallot",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "leek",
+        "ratio": "1 onion = 1 cup sliced leek",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "scallion",
+        "ratio": "1 onion = 1 cup chopped scallion",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "red onion",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "garlic": {
+    "substitutes": [
+      {
+        "name": "shallot",
+        "ratio": "1 clove = 1 small shallot",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "garlic powder",
+        "ratio": "1 clove = 1/8 tsp powder",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "garlic paste",
+        "ratio": "1 clove = 1/2 tsp paste",
+        "context": "asian",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "tomato": {
+    "substitutes": [
+      {
+        "name": "canned tomato",
+        "ratio": "1 1/3 cup fresh = 1 cup canned",
+        "context": "cooking",
+        "source": "Cook For Your Life"
+      },
+      {
+        "name": "cherry tomato",
+        "ratio": "1 tomato = 5-6 cherry tomatoes",
+        "context": "salad",
+        "source": "Common practice"
+      },
+      {
+        "name": "tomato paste + water",
+        "ratio": "1 cup = 1/4 cup paste + 3/4 cup water",
+        "context": "sauce",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "potato": {
+    "substitutes": [
+      {
+        "name": "sweet potato",
+        "ratio": "1:1",
+        "context": "roasting",
+        "source": "Cook For Your Life"
+      },
+      {
+        "name": "cauliflower",
+        "ratio": "1:1",
+        "context": "mashing",
+        "source": "Common practice"
+      },
+      {
+        "name": "parsnip",
+        "ratio": "1:1",
+        "context": "roasting",
+        "source": "Cook For Your Life"
+      }
+    ]
+  },
+  "sweet potato": {
+    "substitutes": [
+      {
+        "name": "potato",
+        "ratio": "1:1",
+        "context": "roasting",
+        "source": "Common practice"
+      },
+      {
+        "name": "butternut squash",
+        "ratio": "1:1",
+        "context": "roasting",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "carrot": {
+    "substitutes": [
+      {
+        "name": "parsnip",
+        "ratio": "1:1",
+        "context": "roasting",
+        "source": "Common practice"
+      },
+      {
+        "name": "sweet potato",
+        "ratio": "1:1",
+        "context": "soup",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "bell pepper": {
+    "substitutes": [
+      {
+        "name": "poblano pepper",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "sweet pepper",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "spinach": {
+    "substitutes": [
+      {
+        "name": "kale",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      },
+      {
+        "name": "swiss chard",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      },
+      {
+        "name": "arugula",
+        "ratio": "1:1",
+        "context": "salad",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "mushroom": {
+    "substitutes": [
+      {
+        "name": "eggplant",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Common practice"
+      },
+      {
+        "name": "zucchini",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Common practice"
+      },
+      {
+        "name": "tofu",
+        "ratio": "1:1",
+        "context": "vegetarian",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "cheddar": {
+    "substitutes": [
+      {
+        "name": "colby jack",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "monterey jack",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "mozzarella",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "fontina",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "parmesan": {
+    "substitutes": [
+      {
+        "name": "pecorino romano",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "nutritional yeast",
+        "ratio": "1:1",
+        "context": "vegan",
+        "source": "Vegetarian Times"
+      }
+    ]
+  },
+  "mozzarella": {
+    "substitutes": [
+      {
+        "name": "provolone",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "fontina",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "chicken broth": {
+    "substitutes": [
+      {
+        "name": "vegetable broth",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "beef broth",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "water + bouillon",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "broth": {
+    "substitutes": [
+      {
+        "name": "stock",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "water + bouillon",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "water",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "vinegar": {
+    "substitutes": [
+      {
+        "name": "lemon juice",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "lime juice",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "apple cider vinegar": {
+    "substitutes": [
+      {
+        "name": "lemon juice",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "white wine vinegar",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "rice vinegar",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "balsamic vinegar": {
+    "substitutes": [
+      {
+        "name": "white wine vinegar + sugar",
+        "ratio": "1 tbsp = 1 tbsp vinegar + 1/2 tsp sugar",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "rice vinegar": {
+    "substitutes": [
+      {
+        "name": "apple cider vinegar + sugar",
+        "ratio": "1 tbsp = 1 tbsp ACV + 1 tsp sugar",
+        "context": "asian",
+        "source": "Food Network"
+      },
+      {
+        "name": "white wine vinegar + sugar",
+        "ratio": "1 tbsp = 1 tbsp vinegar + 1 tsp sugar",
+        "context": "asian",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "white wine vinegar": {
+    "substitutes": [
+      {
+        "name": "red wine vinegar",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "apple cider vinegar",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "basil": {
+    "substitutes": [
+      {
+        "name": "oregano",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "thyme",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "parsley",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "cilantro": {
+    "substitutes": [
+      {
+        "name": "parsley",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "basil",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "parsley": {
+    "substitutes": [
+      {
+        "name": "cilantro",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "basil",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "celery leaf",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "thyme": {
+    "substitutes": [
+      {
+        "name": "oregano",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "basil",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "marjoram",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "rosemary",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "oregano": {
+    "substitutes": [
+      {
+        "name": "thyme",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "basil",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "soy sauce": {
+    "substitutes": [
+      {
+        "name": "tamari",
+        "ratio": "1:1",
+        "context": "asian",
+        "source": "Food Network"
+      },
+      {
+        "name": "coconut aminos",
+        "ratio": "1:1",
+        "context": "asian",
+        "source": "Food Network"
+      },
+      {
+        "name": "worcestershire sauce",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "fish sauce": {
+    "substitutes": [
+      {
+        "name": "soy sauce",
+        "ratio": "1:1",
+        "context": "asian",
+        "source": "Food Network"
+      },
+      {
+        "name": "worcestershire sauce",
+        "ratio": "1:1",
+        "context": "asian",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "oyster sauce": {
+    "substitutes": [
+      {
+        "name": "hoisin sauce",
+        "ratio": "1:1",
+        "context": "asian",
+        "source": "Food Network"
+      },
+      {
+        "name": "soy sauce + sugar",
+        "ratio": "2 tbsp = 2 tbsp soy sauce + 1 tsp sugar",
+        "context": "asian",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "hoisin sauce": {
+    "substitutes": [
+      {
+        "name": "bbq sauce",
+        "ratio": "1:1",
+        "context": "asian",
+        "source": "Food Network"
+      },
+      {
+        "name": "soy sauce + honey",
+        "ratio": "1/4 cup = 1/4 cup soy sauce + 1-2 tbsp honey",
+        "context": "asian",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "mirin": {
+    "substitutes": [
+      {
+        "name": "rice vinegar + sugar",
+        "ratio": "1 tbsp = 1 tbsp vinegar + 1/2 tsp sugar",
+        "context": "japanese",
+        "source": "Food Network"
+      },
+      {
+        "name": "white wine + sugar",
+        "ratio": "1 tbsp = 1 tbsp wine + 1/2 tsp sugar",
+        "context": "japanese",
+        "source": "Food Network"
+      },
+      {
+        "name": "sake + sugar",
+        "ratio": "1 tbsp = 1 tbsp sake + 1/2 tsp sugar",
+        "context": "japanese",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "sesame oil": {
+    "substitutes": [
+      {
+        "name": "peanut oil",
+        "ratio": "1:1",
+        "context": "asian",
+        "source": "Food Network"
+      },
+      {
+        "name": "vegetable oil",
+        "ratio": "1:1",
+        "context": "asian",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "garam masala": {
+    "substitutes": [
+      {
+        "name": "curry powder",
+        "ratio": "1:1",
+        "context": "indian",
+        "source": "Food Network"
+      },
+      {
+        "name": "cumin + allspice",
+        "ratio": "1 tsp = 3/4 tsp cumin + 1/4 tsp allspice",
+        "context": "indian",
+        "source": "Cook Smarts"
+      }
+    ]
+  },
+  "ghee": {
+    "substitutes": [
+      {
+        "name": "clarified butter",
+        "ratio": "1:1",
+        "context": "indian",
+        "source": "Common practice"
+      },
+      {
+        "name": "butter",
+        "ratio": "1:1",
+        "context": "indian",
+        "source": "Common practice"
+      },
+      {
+        "name": "coconut oil",
+        "ratio": "1:1",
+        "context": "indian",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "curry powder": {
+    "substitutes": [
+      {
+        "name": "garam masala + turmeric",
+        "ratio": "1 tsp = 1 tsp garam masala + pinch turmeric",
+        "context": "indian",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "worcestershire sauce": {
+    "substitutes": [
+      {
+        "name": "soy sauce + lemon juice + sugar + hot sauce",
+        "ratio": "1 tbsp = 2 tsp soy + 1/4 tsp lemon + 1/4 tsp sugar + dash hot sauce",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "mustard": {
+    "substitutes": [
+      {
+        "name": "dijon mustard",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "yellow mustard",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "spicy brown mustard",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "tomato sauce": {
+    "substitutes": [
+      {
+        "name": "tomato puree",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "canned tomatoes",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "tomato paste + water",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "tomato paste": {
+    "substitutes": [
+      {
+        "name": "tomato sauce",
+        "ratio": "1 tbsp paste = 3 tbsp sauce simmered",
+        "context": "cooking",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "cornstarch": {
+    "substitutes": [
+      {
+        "name": "arrowroot",
+        "ratio": "1 tbsp = 1-1.5 tbsp arrowroot",
+        "context": "thickening",
+        "source": "Food Network"
+      },
+      {
+        "name": "potato starch",
+        "ratio": "1 tbsp = 2 tsp potato starch",
+        "context": "thickening",
+        "source": "Food Network"
+      },
+      {
+        "name": "rice flour",
+        "ratio": "1 tbsp = 2 tsp rice flour",
+        "context": "thickening",
+        "source": "Food Network"
+      },
+      {
+        "name": "all-purpose flour",
+        "ratio": "1 tbsp = 3 tbsp flour",
+        "context": "frying",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "white wine": {
+    "substitutes": [
+      {
+        "name": "chicken broth",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "vegetable broth",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      },
+      {
+        "name": "water + lemon",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "red wine": {
+    "substitutes": [
+      {
+        "name": "beef broth",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      },
+      {
+        "name": "grape juice",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "lemon juice": {
+    "substitutes": [
+      {
+        "name": "lime juice",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "vinegar",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "orange juice",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "water": {
+    "substitutes": [
+      {
+        "name": "broth",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      },
+      {
+        "name": "stock",
+        "ratio": "1:1",
+        "context": "cooking",
+        "source": "Common practice"
+      },
+      {
+        "name": "milk",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "salt": {
+    "substitutes": [
+      {
+        "name": "soy sauce",
+        "ratio": "to taste",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "kosher salt",
+        "ratio": "1.5x table salt",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "sea salt",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      }
+    ]
+  },
+  "pepper": {
+    "substitutes": [
+      {
+        "name": "white pepper",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "cayenne pepper",
+        "ratio": "1/4 amount",
+        "context": "spicy",
+        "source": "Common practice"
+      },
+      {
+        "name": "red pepper flakes",
+        "ratio": "2x amount",
+        "context": "spicy",
+        "source": "Food Network"
+      }
+    ]
+  },
+  "honey": {
+    "substitutes": [
+      {
+        "name": "maple syrup",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Food Network"
+      },
+      {
+        "name": "agave nectar",
+        "ratio": "1:1",
+        "context": "general",
+        "source": "Common practice"
+      },
+      {
+        "name": "corn syrup",
+        "ratio": "1:1",
+        "context": "baking",
+        "source": "Food Network"
+      }
+    ]
+  }
+}
