@@ -1,4 +1,4 @@
-# Quickstart (macOS, Python 3.11 recommended)
+# Quickstart 
 
 ## Prepare the environment
 
